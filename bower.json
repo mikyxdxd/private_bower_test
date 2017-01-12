@@ -1,10 +1,9 @@
 {
-  "name": "temp",
+  "name": "ABShareModules",
   "version": "0.0.0",
   "dependencies": {
-	
-	"bootstrap": "*",
-	"angular": "~1.6.1"
+
+	"angular": "~1.6.*"
   },
   "overrides": {
     "bootstrap": {
